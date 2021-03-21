@@ -39,7 +39,7 @@
 <body>
     <p><div>
         <div class="logo">
-            <img src="images/arizona-state-university-logo.png"  title="This is the ASU logo">
+            <img src="arizona-state-university-logo.png"  title="This is the ASU logo">
             <h3> Arizona State University Student Resume
         </div>
     </p>
