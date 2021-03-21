@@ -49,7 +49,7 @@
 
 </br>
     <p><div class="box">
-        <img src="images\fshenk.png"  title="This is the Fabian Shenk">
+        <img src="IMG-20160401-WA0006 (2).jpeg"  title="This is the Fabian Shenk">
     </p></div>
     
     </div>
